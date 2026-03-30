@@ -25,6 +25,10 @@ Set these up before your first sync.
 
 ---
 
+## Website
+- Link: [https://columbiasoftwaresolutions.netlify.app]
+---
+
 ## Contacts
 
 **Ethan Zhang** — founder
