@@ -113,6 +113,7 @@
         display: flex;
         gap: 32px;
         list-style: none;
+        margin-right: 100px;
       }
 
       .nav-links a {
@@ -124,6 +125,16 @@
 
       .nav-links a:hover {
         color: #e0e0e0;
+      }
+
+      .nav-mark {
+        position: absolute;
+        right: 24px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 64px;
+        height: 64px;
+        display: block;
       }
 
       /* Hero */
@@ -546,6 +557,7 @@
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
+      <img src="logo.png" alt="CSS lion logo" class="nav-mark" />
     </nav>
 
     <section class="hero">
